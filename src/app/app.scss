@@ -193,10 +193,6 @@ button:focus {
   box-shadow: none;
   border-style: solid;
 }
-.optionCell { 
-    margin-bottom: 1%; 
-    height: 40%;
-}
 /*
 .optionRow {
   height: 45%;
@@ -237,6 +233,7 @@ button:focus {
   }
   */
   .optionCell {
+    margin-bottom: 1%; 
     height: 23%;
   }
   
